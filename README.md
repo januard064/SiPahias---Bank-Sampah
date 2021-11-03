@@ -1,4 +1,7 @@
-
+# SiPahias -  Bank Sampah
+The Waste Bank application that will be built in this MPPL course project is a web and android-based application that aims to be a container and tool that will provide collection, purchase, sale and waste processing services for the environment around Del Institute of Technology. Furthermore, this waste bank application will be named SiPahias. The development of this application itself has the following objectives:
+-Increase the desire of the community, especially students, to collect waste rather than throw it carelessly.
+-Maintain the cleanliness and beauty of the surrounding environment, especially the IT Del campus environment
 
 ## About Laravel
 
