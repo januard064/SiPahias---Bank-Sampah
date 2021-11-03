@@ -6,6 +6,10 @@ The Waste Bank application that will be built in this MPPL course project is a w
 ## Demo Project 
 https://user-images.githubusercontent.com/59024388/140052438-2b6d1757-fd7c-4389-998c-319ee773e470.mp4
 
+## Environment
+This project is built using Laravel version 7 and uses the Firebase API for data management.
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
