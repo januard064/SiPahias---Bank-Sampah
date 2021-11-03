@@ -3,6 +3,9 @@ The Waste Bank application that will be built in this MPPL course project is a w
 - Increase the desire of the community, especially students, to collect waste rather than throw it carelessly.
 - Maintain the cleanliness and beauty of the surrounding environment, especially the IT Del campus environment
 
+## Demo Project 
+https://user-images.githubusercontent.com/59024388/140052438-2b6d1757-fd7c-4389-998c-319ee773e470.mp4
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
